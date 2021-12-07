@@ -95,6 +95,25 @@ def sample_responses(input_text):
 
     if user_message in ("who are you", "who are you?"):
         return "Hello I am a simple chat bot.You can use me to do soo man useful things.\nA bot by Sanila Ranatunga "
+    
+    if user_message in ("What can you do?"):
+        return "I can chat with you like a human😎"
+    
+    if user_message in ("What's new"):
+        return "What's new✨\n\n" \
+               "v0.2\n" \
+               " -Changed the interface much attractive\n" \
+               " -What's new changed to Changelog\n" \
+               " -Fixed problem in 12(Song downloader)\n" \
+               " -Added time also\n" \
+               " -Minor bugs fixes\n\n" \
+               "v0.1\n" \
+               " -Added Some Commands\n" \
+               " -Made much easier to use\n" \
+               " -Improved Chat Facilities\n"
+    
+    if user_message in ("Another Bots of @SanilaRanatunga")
+        return "Song Downloader👉 @songdownload597_bot\nTorrent Downloader👉 @torrentdownloader88_bot\nYoutube Downloader👉 @youtubevideodownloader45_bot\nConnect with Sanila👉 @sanilaassistant_bot"
 
 
 
