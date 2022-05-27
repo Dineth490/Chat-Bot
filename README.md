@@ -1,15 +1,11 @@
 # Chat-Bot
-### Reach this bot on Telegram [Chat Bot](https://t.me/useful_powerful_chat_bot)
 
-<h1> New Features🔥 </h1>
+<h1> Deploying Steps🔥 </h1>
 
-- ✨ Improved Chat Experience
-- ✨ Removed Some Unnecessary Commands
-- ✨ Added Facility to download songs
-- ✨ Added Facility to download videos
-- ✨ Added Facility to download torrent files
-- ✨ Fixed errors while downloading songs
-- ✨ Added new command 
+Go to Constent.py and edit it. Insert your bot token there!
+```python
+API_KEY = "INSERT_YOUR_BOT_TOKEN_HERE"
+```
 
 
 
